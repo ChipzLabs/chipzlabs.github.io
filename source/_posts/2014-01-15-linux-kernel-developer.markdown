@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Linux Kernel Developer"
-description: ""
-category: 
-tags: []
+date: 2014-01-15 05:20:49 +0700
+comments: true
+categories: 
 ---
-{% include JB/setup %}
 
 This page is originally titled KernelDevViewPoint
 from url: http://kernelnewbies.org/KernelDevViewpoint
